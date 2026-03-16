@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\.NET\\W1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|c:\\github\\.net\\w1\\w1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|solutionrelative:w1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|c:\\github\\.net\\w1\\w1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|solutionrelative:w1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|c:\\github\\.net\\w1\\w1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|solutionrelative:w1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|C:\\GitHub\\.NET\\W1\\w1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|solutionrelative:w1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|C:\\GitHub\\.NET\\W1\\w1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|solutionrelative:w1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|c:\\github\\.net\\w1\\w1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A75F86D-3CFC-098C-FE33-BD32D813C5B6}|W1\\W1.csproj|solutionrelative:w1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\.NET\\W1\\W1\\Form3.cs",
+              "RelativeDocumentMoniker": "W1\\Form3.cs",
+              "ToolTip": "C:\\GitHub\\.NET\\W1\\W1\\Form3.cs [Design]",
+              "RelativeToolTip": "W1\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T00:27:39.745Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\.NET\\W1\\W1\\Form1.cs",
+              "RelativeDocumentMoniker": "W1\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\.NET\\W1\\W1\\Form1.cs [Design]",
+              "RelativeToolTip": "W1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T00:18:13.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\.NET\\W1\\W1\\Program.cs",
+              "RelativeDocumentMoniker": "W1\\Program.cs",
+              "ToolTip": "C:\\GitHub\\.NET\\W1\\W1\\Program.cs",
+              "RelativeToolTip": "W1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T00:08:17.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\GitHub\\.NET\\W1\\W1\\Form3.cs",
+              "RelativeDocumentMoniker": "W1\\Form3.cs",
+              "ToolTip": "C:\\GitHub\\.NET\\W1\\W1\\Form3.cs",
+              "RelativeToolTip": "W1\\Form3.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwvwoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T02:54:11.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\GitHub\\.NET\\W1\\W1\\Form2.cs",
+              "RelativeDocumentMoniker": "W1\\Form2.cs",
+              "ToolTip": "C:\\GitHub\\.NET\\W1\\W1\\Form2.cs",
+              "RelativeToolTip": "W1\\Form2.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T02:49:54.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\GitHub\\.NET\\W1\\W1\\Form1.cs",
+              "RelativeDocumentMoniker": "W1\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\.NET\\W1\\W1\\Form1.cs",
+              "RelativeToolTip": "W1\\Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T02:31:40.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
