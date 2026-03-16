@@ -45,11 +45,11 @@
             label1.Size = new Size(73, 20);
             label1.TabIndex = 0;
             label1.Text = "約定事項";
-            label1.Click += label1_Click;
             // 
             // textBox1
             // 
             textBox1.BorderStyle = BorderStyle.None;
+            textBox1.Cursor = Cursors.No;
             textBox1.Location = new Point(71, 56);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";

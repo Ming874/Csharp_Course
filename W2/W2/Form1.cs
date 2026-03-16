@@ -33,7 +33,7 @@ namespace W2
                 counter++;
                 count.Text = counter.ToString();
                 chinese_ave.Text = Math.Round(chineseScore / (double)counter, 2).ToString();
-                math_ave.Text = Math.Round(chineseScore / (double)counter, 2).ToString();
+                math_ave.Text = Math.Round(mathScore / (double)counter, 2).ToString();
 
                 id.Clear();
                 names.Clear();

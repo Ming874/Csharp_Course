@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\.NET\\W2\\W2\\W2\\W2.csproj": {}
+    "C:\\GitHub\\.NET\\W2\\W2\\W2.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\.NET\\W2\\W2\\W2\\W2.csproj": {
+    "C:\\GitHub\\.NET\\W2\\W2\\W2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\.NET\\W2\\W2\\W2\\W2.csproj",
+        "projectUniqueName": "C:\\GitHub\\.NET\\W2\\W2\\W2.csproj",
         "projectName": "W2",
-        "projectPath": "C:\\GitHub\\.NET\\W2\\W2\\W2\\W2.csproj",
+        "projectPath": "C:\\GitHub\\.NET\\W2\\W2\\W2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\.NET\\W2\\W2\\W2\\obj\\",
+        "outputPath": "C:\\GitHub\\.NET\\W2\\W2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

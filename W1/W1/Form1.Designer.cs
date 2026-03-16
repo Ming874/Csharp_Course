@@ -40,7 +40,7 @@
             // 
             // exit
             // 
-            exit.Location = new Point(145, 164);
+            exit.Location = new Point(183, 158);
             exit.Name = "exit";
             exit.Size = new Size(94, 29);
             exit.TabIndex = 0;
@@ -51,7 +51,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(23, 52);
+            label1.Location = new Point(61, 46);
             label1.Name = "label1";
             label1.Size = new Size(73, 20);
             label1.TabIndex = 1;
@@ -60,7 +60,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(23, 85);
+            label2.Location = new Point(61, 79);
             label2.Name = "label2";
             label2.Size = new Size(73, 20);
             label2.TabIndex = 2;
@@ -69,7 +69,7 @@
             // nextForm
             // 
             nextForm.Enabled = false;
-            nextForm.Location = new Point(23, 164);
+            nextForm.Location = new Point(61, 158);
             nextForm.Name = "nextForm";
             nextForm.Size = new Size(94, 29);
             nextForm.TabIndex = 3;
@@ -80,7 +80,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(23, 117);
+            label3.Location = new Point(61, 111);
             label3.Name = "label3";
             label3.Size = new Size(73, 20);
             label3.TabIndex = 4;
@@ -90,7 +90,7 @@
             // 
             // account
             // 
-            account.Location = new Point(102, 49);
+            account.Location = new Point(140, 43);
             account.Name = "account";
             account.Size = new Size(125, 27);
             account.TabIndex = 5;
@@ -98,7 +98,7 @@
             // 
             // password
             // 
-            password.Location = new Point(102, 82);
+            password.Location = new Point(140, 76);
             password.Name = "password";
             password.PasswordChar = '*';
             password.Size = new Size(125, 27);
@@ -107,7 +107,7 @@
             // 
             // passwordCheck
             // 
-            passwordCheck.Location = new Point(102, 114);
+            passwordCheck.Location = new Point(140, 108);
             passwordCheck.Name = "passwordCheck";
             passwordCheck.PasswordChar = '*';
             passwordCheck.Size = new Size(125, 27);
@@ -119,7 +119,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(298, 241);
+            ClientSize = new Size(349, 240);
             Controls.Add(passwordCheck);
             Controls.Add(password);
             Controls.Add(account);
